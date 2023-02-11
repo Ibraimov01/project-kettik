@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install -g create-react-app`
+### `npm install --save react react-dom`
 ### `npm start`
 
 Runs the app in the development mode.\
